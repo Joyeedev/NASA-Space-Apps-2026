@@ -1,11 +1,18 @@
 # Research & Sources
 
-## 1. Project Overview
 
-### Challenge
+## 1.Challenge
 Create Health Monitoring Software for Astronauts on Space Missions
-
-### Catagory of Health Risks:
+### key pints mention in the challange:
+1.long duratioon mission
+#### 2.PROBLEMS:
+-radiation ,isolation,confinement,altered gravity,hostile closed environment.
+#### 3.affects:
+-immune changes,bone loss,cardiovascular events, behavioral problems.
+#### TASK: 
+-health monitoring software that gathers health indicators and enables astronauts to evaluate and act on the status of their health.
+           
+## 2.Catagory of Health Risks:
 #### physical health risks
 
 
@@ -15,30 +22,30 @@ Create Health Monitoring Software for Astronauts on Space Missions
 #### psycological helth risks
 
 
-### OUR PROJECT 
+## 3.OUR PROJECT 
 
 
 
 
 
-### X factor of our project(that makes out project differnt):
+## 4.X factor of our project(that makes out project differnt):
 
 
 
 
-### CHALLANGES OUR PROJECT MIGHT FACE:
+## 5.CHALLANGES OUR PROJECT MIGHT FACE:
 
 
 
-#### problems
+### problems:
 
 
-#### Possible solution:
+### Possible solution:
 
 
-### WORST CASE SENARIOI( critical situations):
+## 6.WORST CASE SENARIOI( critical situations):
 
-#### SOLUTION :
+### SOLUTION :
 
 
 # NASA DATASETS
