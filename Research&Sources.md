@@ -9,7 +9,9 @@ Create Health Monitoring Software for Astronauts on Space Missions
 ## 2.Catagory of Health Risks:
 #### 2.1physical health risks
 ##### 2.2.1 Cardiovascular adaption:https://www.nasa.gov/reference/risk-of-cardiovascular-adaptations EVIDENCE(knowlenge feed korar jonno lagte pare):https://humanresearchroadmap.nasa.gov/evidence/ 
-SOLUTION: BP monitor
+SOLUTION: CARDIOvascular Health 
+
+1.BP measurments:indicators (systolic ,diastolic,heart rate)
 #### 2.2.2 Altered Immune system:
 FINDING 1:https://www.nasa.gov/directorates/esdmd/hhp/immune-risk/?utm_source=chatgpt.com .
 FINDING 2:https://www.nasa.gov/reference/risk-of-altered-immune-system-responses/?utm_source=chatgpt.com
